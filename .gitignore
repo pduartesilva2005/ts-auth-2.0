@@ -1,0 +1,4 @@
+# Ignore some files of the project
+
+node_modules
+.env

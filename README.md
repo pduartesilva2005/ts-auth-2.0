@@ -20,7 +20,8 @@ TS Auth é uma API de Autenticação JWT de Usuários
 
 ## Começando
 
-- Clone esse repositório `git clone https://github.com/pedroduarte2005/ts-auth.git `
+- Clone esse repositório `git clone https://github.com/pedroduarte2005/ts-auth-2.0.git `
+- Entre na pasta `cd ts-auth`
 - Instale as Depedências `yarn` ou `npm install`
 - Rode as Migrations `yarn typeorm migration:run`
 - Rode o Projeto `yarn dev`
